@@ -1,17 +1,14 @@
 [{
-    "0": {
+            "ID": "100842638",
+            "Nombre": "RAFAEL",
+            "Apellido1": "Aguero",
+            "Apellido2": "Mora"
+           ,
+
             "ID": "100842638",
             "Nombre": "RAFAEL",
             "Apellido1": "Aguero",
             "Apellido2": "Mora"
             
-    },
-    "1": {
-            "ID": "100842638",
-            "Nombre": "RAFAEL",
-            "Apellido1": "Aguero",
-            "Apellido2": "Mora"
-            
-    }
-}
-]
+
+}]
