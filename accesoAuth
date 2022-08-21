@@ -30,8 +30,8 @@
     "node_id": "MDQ6VXNlcjE=",
     "avatar_url": "https://avatars.githubusercontent.com/u/1?v=4",
     "gravatar_id": "",
-    "url": "https://api.github.com/users/mojombo",
-    "html_url": "https://github.com/mojombo",
+    "url": "https://raw.githubusercontent.com/D4RHS0UL/api/main/accesoAuth/mojombo",
+    
     "followers_url": "https://api.github.com/users/mojombo/followers",
     "following_url": "https://api.github.com/users/mojombo/following{/other_user}",
     "gists_url": "https://api.github.com/users/mojombo/gists{/gist_id}",
