@@ -1,0 +1,1400 @@
+{
+    "profesiones": {
+        "A": [
+            {
+                "id": 1,
+                "name": "Abogado",
+                "detalles": "Un abogado es un profesional que representa a individuos y organizaciones en asuntos legales."
+            },
+            {
+                "id": 2,
+                "name": "Academico",
+                "detalles": "Un académico es un experto en una disciplina que se dedica a la enseñanza e investigación."
+            },
+            {
+                "id": 3,
+                "name": "Adjunto",
+                "detalles": "Un adjunto asiste a un superior en tareas académicas o administrativas."
+            },
+            {
+                "id": 4,
+                "name": "Administrador",
+                "detalles": "El administrador gestiona recursos y supervisa la organización."
+            },
+            {
+                "id": 5,
+                "name": "Administrativo",
+                "detalles": "El administrativo realiza tareas de soporte en oficina, incluyendo la atención al público."
+            },
+            {
+                "id": 6,
+                "name": "Agrónomo",
+                "detalles": "Un agrónomo es un experto en la producción agrícola y en el manejo de recursos naturales."
+            },
+            {
+                "id": 7,
+                "name": "Alergólogo",
+                "detalles": "Especialista en el diagnóstico y tratamiento de alergias."
+            },
+            {
+                "id": 8,
+                "name": "Alergista",
+                "detalles": "Especialista enfocado en las reacciones alérgicas y sus tratamientos."
+            },
+            {
+                "id": 9,
+                "name": "Almacenero",
+                "detalles": "Responsable de mantener y administrar los inventarios en un almacén."
+            },
+            {
+                "id": 10,
+                "name": "Almacenista",
+                "detalles": "Encargado del manejo y control de productos almacenados."
+            },
+            {
+                "id": 11,
+                "name": "Ama de casa",
+                "detalles": "Persona que se dedica al cuidado del hogar y la familia."
+            },
+            {
+                "id": 12,
+                "name": "Anatomista",
+                "detalles": "Científico que estudia la estructura del cuerpo humano y animal."
+            },
+            {
+                "id": 13,
+                "name": "Anestesiologo",
+                "detalles": "Médico especializado en anestesia y manejo del dolor."
+            },
+            {
+                "id": 14,
+                "name": "Anestesista",
+                "detalles": "Profesional que administra anestesia a pacientes durante procedimientos quirúrgicos."
+            },
+            {
+                "id": 15,
+                "name": "Antologista",
+                "detalles": "Especialista en la recopilación y análisis de antologías literarias."
+            },
+            {
+                "id": 16,
+                "name": "Antropólogo",
+                "detalles": "Científico que estudia la humanidad, sus culturas y su evolución."
+            },
+            {
+                "id": 17,
+                "name": "Arabista",
+                "detalles": "Especialista en lengua y cultura árabe."
+            }
+        ],
+        "B": [
+            {
+                "id": 18,
+                "name": "Archivero",
+                "detalles": "Responsable de la organización y conservación de archivos."
+            },
+            {
+                "id": 19,
+                "name": "Arqueologo",
+                "detalles": "Científico que estudia civilizaciones a través de restos materiales."
+            },
+            {
+                "id": 20,
+                "name": "Arquitecto",
+                "detalles": "Profesional encargado del diseño y planificación de edificios y espacios."
+            },
+            {
+                "id": 21,
+                "name": "Asesor",
+                "detalles": "Profesional que brinda asesoría en un área específica."
+            },
+            {
+                "id": 22,
+                "name": "Asistente",
+                "detalles": "Persona que asiste a un superior en diversas funciones."
+            },
+            {
+                "id": 23,
+                "name": "Astrofisico",
+                "detalles": "Científico que estudia los cuerpos celestes y las leyes del universo."
+            },
+            {
+                "id": 24,
+                "name": "Astrologo",
+                "detalles": "Practicante de la astrología, que estudia la posición de los astros."
+            },
+            {
+                "id": 25,
+                "name": "Astronomo",
+                "detalles": "Estudioso de los astros y del cosmos en su totalidad."
+            },
+            {
+                "id": 26,
+                "name": "Atleta",
+                "detalles": "Deportista que practica uno o varios deportes de manera profesional."
+            },
+            {
+                "id": 27,
+                "name": "ATS",
+                "detalles": "Auxiliar técnico sanitario que brinda atención médica básica."
+            },
+            {
+                "id": 28,
+                "name": "Autor",
+                "detalles": "Persona que crea o escribe una obra literaria."
+            }
+        ],
+        "C": [
+            {
+                "id": 29,
+                "name": "Auxiliar",
+                "detalles": "Persona que asiste a otros profesionales en diversas tareas."
+            },
+            {
+                "id": 30,
+                "name": "Avicultor",
+                "detalles": "Especialista en la cría y manejo de aves de corral."
+            },
+            {
+                "id": 31,
+                "name": "Bacteriologo",
+                "detalles": "Científico que estudia las bacterias y su impacto en la salud."
+            },
+            {
+                "id": 32,
+                "name": "Bedel",
+                "detalles": "Encargado de la vigilancia y mantenimiento de un lugar, como una escuela."
+            },
+            {
+                "id": 33,
+                "name": "Bibliografo",
+                "detalles": "Persona que se encarga de la investigación bibliográfica."
+            },
+            {
+                "id": 34,
+                "name": "Bibliotecario",
+                "detalles": "Encargado de gestionar y organizar una biblioteca."
+            },
+            {
+                "id": 35,
+                "name": "Biofisico",
+                "detalles": "Científico que estudia los procesos biológicos utilizando principios físicos."
+            },
+            {
+                "id": 36,
+                "name": "Biografo",
+                "detalles": "Persona que escribe biografías de distintas figuras."
+            },
+            {
+                "id": 37,
+                "name": "Biologo",
+                "detalles": "Científico que estudia los seres vivos y sus interacciones."
+            },
+            {
+                "id": 38,
+                "name": "Bioquimico",
+                "detalles": "Especialista en los procesos químicos dentro de los organismos vivos."
+            },
+            {
+                "id": 39,
+                "name": "Botanico",
+                "detalles": "Estudioso de las plantas y su relación con el medio ambiente."
+            }
+        ],
+        "C": [
+            {
+                "id": 40,
+                "name": "Cancerologo",
+                "detalles": "Médico especializado en el tratamiento del cáncer."
+            },
+            {
+                "id": 41,
+                "name": "Cardiologo",
+                "detalles": "Médico que se especializa en el diagnóstico y tratamiento de enfermedades cardíacas."
+            },
+            {
+                "id": 42,
+                "name": "Cartografo",
+                "detalles": "Especialista en la creación y análisis de mapas."
+            },
+            {
+                "id": 43,
+                "name": "Castrador",
+                "detalles": "Persona que realiza procedimientos de castración en animales."
+            },
+            {
+                "id": 44,
+                "name": "Catedratico",
+                "detalles": "Profesional que enseña en una universidad, generalmente en una cátedra."
+            },
+            {
+                "id": 45,
+                "name": "Cirujano",
+                "detalles": "Médico que realiza operaciones quirúrgicas."
+            },
+            {
+                "id": 46,
+                "name": "Citologo",
+                "detalles": "Especialista en el estudio de las células y sus funciones."
+            },
+            {
+                "id": 47,
+                "name": "Climatologo",
+                "detalles": "Científico que estudia el clima y sus variaciones."
+            },
+            {
+                "id": 48,
+                "name": "Codirector",
+                "detalles": "Persona que comparte la dirección de un proyecto o institución junto a otro."
+            },
+            {
+                "id": 49,
+                "name": "Comadron",
+                "detalles": "Especialista en asistencia del parto."
+            },
+            {
+                "id": 50,
+                "name": "Consejero",
+                "detalles": "Persona que ofrece orientación y consejos a individuos o grupos."
+            },
+            {
+                "id": 51,
+                "name": "Conserje",
+                "detalles": "Encargado del mantenimiento y atención de un edificio."
+            },
+            {
+                "id": 52,
+                "name": "Conservador",
+                "detalles": "Profesional que trabaja en la preservación de bienes culturales."
+            },
+            {
+                "id": 53,
+                "name": "Coordinador",
+                "detalles": "Persona que organiza y coordina actividades o proyectos."
+            },
+            {
+                "id": 54,
+                "name": "Cosmografo",
+                "detalles": "Científico que estudia las características del universo."
+            },
+            {
+                "id": 55,
+                "name": "Cosmologo",
+                "detalles": "Estudioso de la estructura y evolución del universo."
+            },
+            {
+                "id": 56,
+                "name": "Criminalista",
+                "detalles": "Experto en ciencias forenses que investiga crímenes."
+            },
+            {
+                "id": 57,
+                "name": "Cronologo",
+                "detalles": "Especialista en cronología, estudio del tiempo y los eventos históricos."
+            }
+        ],
+        "D": [
+            {
+                "id": 58,
+                "name": "Decano",
+                "detalles": "Miembro de una facultad que supervisa actividades académicas."
+            },
+            {
+                "id": 59,
+                "name": "Decorador",
+                "detalles": "Profesional que se especializa en el diseño de interiores."
+            },
+            {
+                "id": 60,
+                "name": "Defensor",
+                "detalles": "Abogado que representa a una parte en un juicio."
+            },
+            {
+                "id": 61,
+                "name": "Delegado",
+                "detalles": "Persona que actúa en nombre de otros, especialmente en conferencias o reuniones."
+            },
+            {
+                "id": 62,
+                "name": "Delineante",
+                "detalles": "Profesional que realiza dibujos técnicos y planos."
+            },
+            {
+                "id": 63,
+                "name": "Demografo",
+                "detalles": "Científico que estudia la población y sus características."
+            },
+            {
+                "id": 64,
+                "name": "Dentista",
+                "detalles": "Médico especializado en la salud bucal."
+            },
+            {
+                "id": 65,
+                "name": "Dermatologo",
+                "detalles": "Médico especializado en el diagnóstico y tratamiento de enfermedades de la piel."
+            },
+            {
+                "id": 66,
+                "name": "Desempleado",
+                "detalles": "Persona sin empleo que busca trabajo."
+            },
+            {
+                "id": 67,
+                "name": "Dibujante",
+                "detalles": "Artista que realiza dibujos y representaciones gráficas."
+            },
+            {
+                "id": 68,
+                "name": "Directivo",
+                "detalles": "Persona que ocupa un nivel alto en la jerarquía de una organización."
+            },
+            {
+                "id": 69,
+                "name": "Director",
+                "detalles": "Persona encargada de supervisar y gestionar una entidad o proyecto."
+            },
+            {
+                "id": 70,
+                "name": "Dirigente",
+                "detalles": "Líder que guía un grupo o partido político."
+            },
+            {
+                "id": 71,
+                "name": "Doctor",
+                "detalles": "Médico especializado en la salud y tratamiento de enfermedades."
+            }
+        ],
+        "E": [
+            {
+                "id": 72,
+                "name": "Documentalista",
+                "detalles": "Persona que se especializa en la organización y conservación de documentos."
+            },
+            {
+                "id": 73,
+                "name": "Ecologo",
+                "detalles": "Científico que estudia las interacciones entre los organismos y su entorno."
+            },
+            {
+                "id": 74,
+                "name": "Economista",
+                "detalles": "Especialista en el estudio de la economía y sus fenómenos."
+            },
+            {
+                "id": 75,
+                "name": "Educador",
+                "detalles": "Persona que enseña y guía a otros en su aprendizaje."
+            },
+            {
+                "id": 76,
+                "name": "Egiptologo",
+                "detalles": "Especialista en la civilización y cultura del antiguo Egipto."
+            },
+            {
+                "id": 77,
+                "name": "Endocrinologo",
+                "detalles": "Médico especializado en el sistema endocrino y las hormonas."
+            },
+            {
+                "id": 78,
+                "name": "Enfermero",
+                "detalles": "Profesional que brinda atención y cuidado a los pacientes."
+            },
+            {
+                "id": 79,
+                "name": "Enologo",
+                "detalles": "Especialista en la producción y elaboración de vino."
+            },
+            {
+                "id": 80,
+                "name": "Entomologo",
+                "detalles": "Científico que estudia los insectos."
+            },
+            {
+                "id": 81,
+                "name": "Epidemiologo",
+                "detalles": "Científico que estudia la distribución y determinantes de enfermedades."
+            },
+            {
+                "id": 82,
+                "name": "Especialista",
+                "detalles": "Profesional con conocimientos profundos en un área específica."
+            },
+            {
+                "id": 83,
+                "name": "Espeleologo",
+                "detalles": "Investigador dedicado al estudio de cuevas y cavidades naturales."
+            },
+            {
+                "id": 84,
+                "name": "Estadista",
+                "detalles": "Experto en estadística y análisis de datos."
+            },
+            {
+                "id": 85,
+                "name": "Estadistico",
+                "detalles": "Científico que utiliza métodos estadísticos para analizar datos."
+            },
+            {
+                "id": 86,
+                "name": "Etimologo",
+                "detalles": "Estudioso del origen y evolución de las palabras."
+            },
+            {
+                "id": 87,
+                "name": "Etimologista",
+                "detalles": "Científico que investiga la historia y el desarrollo de palabras."
+            },
+            {
+                "id": 88,
+                "name": "Etnografo",
+                "detalles": "Estudioso de las costumbres de los diferentes grupos humanos."
+            },
+            {
+                "id": 89,
+                "name": "Etnologo",
+                "detalles": "Científico que compara y analiza distintas culturas."
+            },
+            {
+                "id": 90,
+                "name": "Etologo",
+                "detalles": "Investigador que estudia el comportamiento animal."
+            },
+            {
+                "id": 91,
+                "name": "Examinador",
+                "detalles": "Persona que realiza exámenes de diversas índoles."
+            }
+        ],
+        "F": [
+            {
+                "id": 92,
+                "name": "Facultativo",
+                "detalles": "Médico con título que tiene la responsabilidad de atender pacientes."
+            },
+            {
+                "id": 93,
+                "name": "Farmaceutico",
+                "detalles": "Especialista en medicamentos y su administración."
+            },
+            {
+                "id": 94,
+                "name": "Farmacologo",
+                "detalles": "Científico que estudia cómo los medicamentos afectan el organismo."
+            },
+            {
+                "id": 95,
+                "name": "Filologo",
+                "detalles": "Estudioso de las lenguas y su desarrollo histórico."
+            },
+            {
+                "id": 96,
+                "name": "Filosofo",
+                "detalles": "Reflexiona sobre cuestiones fundamentales de la existencia humana."
+            },
+            {
+                "id": 97,
+                "name": "Fiscal",
+                "detalles": "Abogado que representa al Estado en asuntos legales."
+            },
+            {
+                "id": 98,
+                "name": "Fisico",
+                "detalles": "Científico que estudia las leyes naturales del universo."
+            },
+            {
+                "id": 99,
+                "name": "Fisiologo",
+                "detalles": "Científico que investiga las funciones biológicas de los organismos."
+            },
+            {
+                "id": 100,
+                "name": "Fisioterapeuta",
+                "detalles": "Profesional que utiliza ejercicios y técnicas físicas para tratar lesiones."
+            },
+            {
+                "id": 101,
+                "name": "Fonetista",
+                "detalles": "Experto en el estudio de los sonidos del habla."
+            },
+            {
+                "id": 102,
+                "name": "Foniatra",
+                "detalles": "Médico especializado en trastornos de la voz."
+            },
+            {
+                "id": 103,
+                "name": "Fonologo",
+                "detalles": "Científico que investiga los sistemas de sonido en lenguas."
+            },
+            {
+                "id": 104,
+                "name": "Forense",
+                "detalles": "Experto que aplica la ciencia a problemas legales."
+            },
+            {
+                "id": 105,
+                "name": "Fotografo",
+                "detalles": "Artista que captura imágenes con una cámara."
+            }
+        ],
+        "G": [
+            {
+                "id": 106,
+                "name": "Funcionario",
+                "detalles": "Persona que trabaja para un organismo gubernamental."
+            },
+            {
+                "id": 107,
+                "name": "Gemologo",
+                "detalles": "Experto en el estudio de piedras preciosas."
+            },
+            {
+                "id": 108,
+                "name": "Genetista",
+                "detalles": "Científico que estudia los genes y la herencia."
+            },
+            {
+                "id": 109,
+                "name": "Geobotanica",
+                "detalles": "Estudio de la flora en relación con su entorno ambiental."
+            },
+            {
+                "id": 110,
+                "name": "Geodesta",
+                "detalles": "Especialista en mediciones de la tierra."
+            },
+            {
+                "id": 111,
+                "name": "Geofisico",
+                "detalles": "Científico que estudia las propiedades físicas de la Tierra."
+            },
+            {
+                "id": 112,
+                "name": "Geografo",
+                "detalles": "Científico que estudia la superficie terrestre y su relación con las actividades humanas."
+            },
+            {
+                "id": 113,
+                "name": "Geologo",
+                "detalles": "Científico que estudia la composición y estructura de la Tierra."
+            },
+            {
+                "id": 114,
+                "name": "Geomantico",
+                "detalles": "Estudioso de la geomancia, interpretación de la tierra."
+            },
+            {
+                "id": 115,
+                "name": "Geometra",
+                "detalles": "Profesional en geometría que trabaja con medidas y formas."
+            },
+            {
+                "id": 116,
+                "name": "Geoquimica",
+                "detalles": "Ciencia que estudia la composición química de la Tierra."
+            },
+            {
+                "id": 117,
+                "name": "Gerente",
+                "detalles": "Persona que dirige y gestiona organizaciones."
+            },
+            {
+                "id": 118,
+                "name": "Geriatra",
+                "detalles": "Médico especializado en la atención de personas mayores."
+            },
+            {
+                "id": 119,
+                "name": "Gerontologo",
+                "detalles": "Científico que estudia el envejecimiento y sus implicaciones."
+            },
+            {
+                "id": 120,
+                "name": "Gestor",
+                "detalles": "Persona que se encarga de la gestión y administración de recursos."
+            },
+            {
+                "id": 121,
+                "name": "Grabador",
+                "detalles": "Artista que realiza grabados o impresiones."
+            },
+            {
+                "id": 122,
+                "name": "Graduado social",
+                "detalles": "Profesional que trabaja en servicios sociales y comunidad."
+            },
+            {
+                "id": 123,
+                "name": "Grafologo",
+                "detalles": "Experto en el análisis de la escritura a mano."
+            },
+            {
+                "id": 124,
+                "name": "Gramatico",
+                "detalles": "Estudioso de las reglas y estructuras de una lengua."
+            },
+            {
+                "id": 125,
+                "name": "Guarda de seguridad",
+                "detalles": "Persona que se encarga de la seguridad y protección de un establecimiento."
+            }
+        ],
+        "H": [
+            {
+                "id": 126,
+                "name": "Hematologo",
+                "detalles": "Médico especializado en enfermedades de la sangre."
+            },
+            {
+                "id": 127,
+                "name": "Hepatologo",
+                "detalles": "Médico especializado en enfermedades del hígado."
+            },
+            {
+                "id": 128,
+                "name": "Hidrogeologo",
+                "detalles": "Estudioso de las aguas subterráneas y su movimiento."
+            },
+            {
+                "id": 129,
+                "name": "Hidrografo",
+                "detalles": "Especialista en mediciones de aguas superficiales y recursos hídricos."
+            },
+            {
+                "id": 130,
+                "name": "Hidrologo",
+                "detalles": "Científico que estudia el ciclo del agua en la Tierra."
+            },
+            {
+                "id": 131,
+                "name": "Higienista",
+                "detalles": "Profesional que se ocupa de la higiene y salud pública."
+            },
+            {
+                "id": 132,
+                "name": "Hispanista",
+                "detalles": "Estudioso de las lenguas, literatura y cultura de los países hispanohablantes."
+            },
+            {
+                "id": 133,
+                "name": "Historiador",
+                "detalles": "Especialista en la investigación y estudio de la historia."
+            },
+            {
+                "id": 134,
+                "name": "Homeopata",
+                "detalles": "Médico que utiliza la homeopatía como método de tratamiento."
+            }
+        ],
+        "I": [
+            {
+                "id": 135,
+                "name": "Informatico",
+                "detalles": "Profesional en el área de tecnologías de la información."
+            },
+            {
+                "id": 136,
+                "name": "Ingeniero",
+                "detalles": "Profesional que diseña y construye soluciones técnicas."
+            },
+            {
+                "id": 137,
+                "name": "Ingeniero civil",
+                "detalles": "Especialista en la construcción y diseño de infraestructuras."
+            },
+            {
+                "id": 138,
+                "name": "Ingeniero electrico",
+                "detalles": "Experto en sistemas eléctricos y electromecánicos."
+            },
+            {
+                "id": 139,
+                "name": "Ingeniero en sistemas",
+                "detalles": "Especialista en el diseño de sistemas informáticos."
+            },
+            {
+                "id": 140,
+                "name": "Ingeniero industrial",
+                "detalles": "Experto en optimización de procesos en industrias."
+            },
+            {
+                "id": 141,
+                "name": "Ingeniero tecnico",
+                "detalles": "Profesional especializado en un área técnica específica."
+            },
+            {
+                "id": 142,
+                "name": "Inmunologo",
+                "detalles": "Científico que estudia el sistema inmunológico."
+            }
+        ],
+        "J": [
+            {
+                "id": 143,
+                "name": "Inspector",
+                "detalles": "Persona encargada de verificar el cumplimiento de normativas."
+            },
+            {
+                "id": 144,
+                "name": "Interino",
+                "detalles": "Persona que ocupa temporalmente un cargo o puesto."
+            },
+            {
+                "id": 145,
+                "name": "Interventor",
+                "detalles": "Profesional que supervisa o revisa cuentas o asuntos administrativos."
+            },
+            {
+                "id": 146,
+                "name": "Investigador",
+                "detalles": "Persona que realiza estudios para descubrir nueva información."
+            },
+            {
+                "id": 147,
+                "name": "Jardinero",
+                "detalles": "Encargado del cuidado de jardines y espacios verdes."
+            },
+            {
+                "id": 148,
+                "name": "Jefe",
+                "detalles": "Persona que ocupa una posición superior en una organización."
+            },
+            {
+                "id": 149,
+                "name": "Juez",
+                "detalles": "Funcionarios de la justicia que dictan sentencia en casos legales."
+            },
+            {
+                "id": 150,
+                "name": "Latinista",
+                "detalles": "Especialista en el estudio del latín y su literatura."
+            },
+            {
+                "id": 151,
+                "name": "Lector",
+                "detalles": "Persona que lee y entiende textos de diferentes índoles."
+            },
+            {
+                "id": 152,
+                "name": "Letrado",
+                "detalles": "Abogado o profesional del derecho calificado."
+            },
+            {
+                "id": 153,
+                "name": "Lexicografo",
+                "detalles": "Creador de diccionarios y estudios del lenguaje."
+            },
+            {
+                "id": 154,
+                "name": "Lexicologo",
+                "detalles": "Estudioso de los léxicos y vocabularios de las lenguas."
+            },
+            {
+                "id": 155,
+                "name": "Licenciado",
+                "detalles": "Persona que ha sido graduada en una carrera universitaria."
+            },
+            {
+                "id": 156,
+                "name": "Linguista",
+                "detalles": "Estudioso del lenguaje en general."
+            },
+            {
+                "id": 157,
+                "name": "Logopeda",
+                "detalles": "Especialista en la corrección de defectos del habla."
+            }
+        ],
+        "M": [
+            {
+                "id": 158,
+                "name": "Maestro",
+                "detalles": "Educador que enseña a estudiantes en instituciones educativas."
+            },
+            {
+                "id": 159,
+                "name": "Matematico",
+                "detalles": "Científico que estudia los números, magnitudes y patrones."
+            },
+            {
+                "id": 160,
+                "name": "Matron",
+                "detalles": "Persona especializada en la atención del parto."
+            },
+            {
+                "id": 161,
+                "name": "Medico",
+                "detalles": "Profesional de la salud que diagnostica y trata enfermedades."
+            },
+            {
+                "id": 162,
+                "name": "Mensajero",
+                "detalles": "Persona que transporta mensajes o documentos."
+            },
+            {
+                "id": 163,
+                "name": "Meteorologo",
+                "detalles": "Científico que estudia la atmósfera y el clima."
+            }
+        ],
+        "M": [
+            {
+                "id": 164,
+                "name": "Micologo",
+                "detalles": "Científico que estudia los hongos."
+            },
+            {
+                "id": 165,
+                "name": "Microbiologo",
+                "detalles": "Científico que estudia microorganismos."
+            },
+            {
+                "id": 166,
+                "name": "Microcirujano",
+                "detalles": "Médico que realiza procedimientos quirúrgicos con herramientas de precisión."
+            },
+            {
+                "id": 167,
+                "name": "Mimografo",
+                "detalles": "Persona que reproduce documentos o gráficos."
+            },
+            {
+                "id": 168,
+                "name": "Mineralogista",
+                "detalles": "Científico que estudia los minerales."
+            },
+            {
+                "id": 169,
+                "name": "Monitor",
+                "detalles": "Persona que supervisa ciertas actividades o procesos."
+            },
+            {
+                "id": 170,
+                "name": "Musico",
+                "detalles": "Artista que crea y interpreta música."
+            }
+        ],
+        "N": [
+            {
+                "id": 171,
+                "name": "Naturopata",
+                "detalles": "Profesional que utiliza métodos naturales para promover la salud."
+            },
+            {
+                "id": 172,
+                "name": "Nefrologo",
+                "detalles": "Médico especialista en enfermedades de los riñones."
+            },
+            {
+                "id": 173,
+                "name": "Neumologo",
+                "detalles": "Médico especializado en el sistema respiratorio."
+            },
+            {
+                "id": 174,
+                "name": "Neuroanatomista",
+                "detalles": "Científico que estudia la anatomía del sistema nervioso."
+            },
+            {
+                "id": 175,
+                "name": "Neurobiologo",
+                "detalles": "Estudioso de los procesos biológicos del sistema nervioso."
+            },
+            {
+                "id": 176,
+                "name": "Neurocirujano",
+                "detalles": "Médico que realiza cirugías en el sistema nervioso."
+            },
+            {
+                "id": 177,
+                "name": "Neuroembriologo",
+                "detalles": "Especialista en el desarrollo del sistema nervioso en embriones."
+            },
+            {
+                "id": 178,
+                "name": "Neurofisiologo",
+                "detalles": "Científico que estudia las funciones del sistema nervioso."
+            },
+            {
+                "id": 179,
+                "name": "Neurologo",
+                "detalles": "Médico especializado en el diagnóstico y tratamiento de enfermedades neurológicas."
+            },
+            {
+                "id": 180,
+                "name": "Nutricionista",
+                "detalles": "Experto en nutrición que ayuda a las personas a mantener una dieta saludable."
+            }
+        ],
+        "O": [
+            {
+                "id": 181,
+                "name": "Oceanografo",
+                "detalles": "Científico que estudia los océanos y sus ecosistemas."
+            },
+            {
+                "id": 182,
+                "name": "Odontologo",
+                "detalles": "Profesional de la salud especializado en la salud dental."
+            },
+            {
+                "id": 183,
+                "name": "Oficial",
+                "detalles": "Persona que trabaja en el sector público y tiene un puesto de autoridad."
+            },
+            {
+                "id": 184,
+                "name": "Oficial de policia",
+                "detalles": "Agente encargado de hacer cumplir la ley."
+            },
+            {
+                "id": 185,
+                "name": "Oficial de transito",
+                "detalles": "Agente encargado de regular el tráfico."
+            },
+            {
+                "id": 186,
+                "name": "Oficinista",
+                "detalles": "Empleado que realiza tareas administrativas en una oficina."
+            },
+            {
+                "id": 187,
+                "name": "Oftalmologo",
+                "detalles": "Médico especializado en el diagnóstico y tratamiento de enfermedades oculares."
+            },
+            {
+                "id": 188,
+                "name": "Oncologo",
+                "detalles": "Médico especializado en el diagnóstico y tratamiento del cáncer."
+            },
+            {
+                "id": 189,
+                "name": "Optico",
+                "detalles": "Profesional que se especializa en la salud visual."
+            },
+            {
+                "id": 190,
+                "name": "Optometrista",
+                "detalles": "Especialista que evalúa la visión y prescribe lentes."
+            },
+            {
+                "id": 191,
+                "name": "Ordenanza",
+                "detalles": "Persona encargada de mantener el orden en un establecimiento."
+            },
+            {
+                "id": 192,
+                "name": "Orientador",
+                "detalles": "Especialista que brinda orientación vocacional o educativa."
+            },
+            {
+                "id": 193,
+                "name": "Ornitologo",
+                "detalles": "Científico que estudia las aves."
+            },
+            {
+                "id": 194,
+                "name": "Ortopedico",
+                "detalles": "Médico especializado en el diagnóstico y tratamiento de trastornos del sistema esquelético."
+            },
+            {
+                "id": 195,
+                "name": "Ortopedista",
+                "detalles": "Especialista que se encarga de corregir deformidades esqueléticas."
+            },
+            {
+                "id": 196,
+                "name": "Osteologo",
+                "detalles": "Científico que estudia los huesos y su desarrollo."
+            },
+            {
+                "id": 197,
+                "name": "Osteopata",
+                "detalles": "Médico que utiliza manipulaciones para tratar afecciones del sistema musculoesquelético."
+            },
+            {
+                "id": 198,
+                "name": "Otorrinolaringologo",
+                "detalles": "Médico especializado en enfermedades del oído, nariz y garganta."
+            }
+        ],
+        "P": [
+            {
+                "id": 199,
+                "name": "Paleobiologo",
+                "detalles": "Científico que estudia los organismos del pasado y su evolución."
+            },
+            {
+                "id": 200,
+                "name": "Paleobotanico",
+                "detalles": "Estudioso de las plantas del pasado y sus fósiles."
+            },
+            {
+                "id": 201,
+                "name": "Paleografo",
+                "detalles": "Expert en el estudio de la escritura antigua."
+            },
+            {
+                "id": 202,
+                "name": "Paleologo",
+                "detalles": "Científico que estudia los fósiles y la vida antigua."
+            },
+            {
+                "id": 203,
+                "name": "Paleontologo",
+                "detalles": "Científico que estudia los fósiles y la historia de los seres vivos."
+            },
+            {
+                "id": 204,
+                "name": "Patologo",
+                "detalles": "Médico que estudia enfermedades a través de sus efectos en los tejidos."
+            },
+            {
+                "id": 205,
+                "name": "Pedagogo",
+                "detalles": "Experto en educación y enseñanza."
+            },
+            {
+                "id": 206,
+                "name": "Pediatra",
+                "detalles": "Médico especializado en la salud infantil."
+            },
+            {
+                "id": 207,
+                "name": "Pedicuro",
+                "detalles": "Especialista en el cuidado de los pies."
+            },
+            {
+                "id": 208,
+                "name": "Periodista",
+                "detalles": "Persona que investiga y reporta noticias."
+            },
+            {
+                "id": 209,
+                "name": "Perito",
+                "detalles": "Experto que informa sobre un tema específico en juicios."
+            },
+            {
+                "id": 210,
+                "name": "Piscicultor",
+                "detalles": "Especialista en la cría y cultivo de peces."
+            },
+            {
+                "id": 211,
+                "name": "Podologo",
+                "detalles": "Médico especializado en el diagnóstico y tratamiento de enfermedades del pie."
+            },
+            {
+                "id": 212,
+                "name": "Portero",
+                "detalles": "Persona que se encarga de la seguridad y vigilancia de un edificio."
+            },
+            {
+                "id": 213,
+                "name": "Prehistoriador",
+                "detalles": "Estudioso de las culturas y civilizaciones prehistóricas."
+            },
+            {
+                "id": 214,
+                "name": "Presidente",
+                "detalles": "Líder de una organización o país."
+            },
+            {
+                "id": 215,
+                "name": "Proctologo",
+                "detalles": "Médico especialista en enfermedades del recto y el ano."
+            },
+            {
+                "id": 216,
+                "name": "Profesor",
+                "detalles": "Persona que enseña en instituciones educativas."
+            },
+            {
+                "id": 217,
+                "name": "Programador",
+                "detalles": "Desarrollador de software que escribe código informático."
+            },
+            {
+                "id": 218,
+                "name": "Protesico",
+                "detalles": "Especialista en la creación de prótesis."
+            },
+            {
+                "id": 219,
+                "name": "Proveedor",
+                "detalles": "Persona o entidad que suministra bienes o servicios."
+            }
+        ],
+        "P": [
+            {
+                "id": 220,
+                "name": "Psicoanalista",
+                "detalles": "Terapeuta que utiliza el psicoanálisis para abordar problemas psicológicos."
+            },
+            {
+                "id": 221,
+                "name": "Psicologo",
+                "detalles": "Profesional que estudia el comportamiento humano y los procesos mentales."
+            },
+            {
+                "id": 222,
+                "name": "Psicofisico",
+                "detalles": "Científico que investiga la relación entre lo psicológico y lo físico."
+            },
+            {
+                "id": 223,
+                "name": "Psicopedagogo",
+                "detalles": "Experto en técnicas de aprendizaje y educación."
+            },
+            {
+                "id": 224,
+                "name": "Psicoterapeuta",
+                "detalles": "Terapeuta que utiliza diferentes enfoques psicológicos para ayudar a los pacientes."
+            },
+            {
+                "id": 225,
+                "name": "Psiquiatra",
+                "detalles": "Médico especializado en el diagnóstico y tratamiento de trastornos mentales."
+            },
+            {
+                "id": 226,
+                "name": "Publicista",
+                "detalles": "Experto en la creación y gestión de campañas publicitarias."
+            },
+            {
+                "id": 227,
+                "name": "Publicitario",
+                "detalles": "Persona que trabaja en el sector de la publicidad."
+            },
+            {
+                "id": 228,
+                "name": "Puericultor Quimico",
+                "detalles": "Especialista en la salud y desarrollo infantil."
+            },
+            {
+                "id": 229,
+                "name": "Quiropractico",
+                "detalles": "Médico que se especializa en el ajuste manual de la columna vertebral."
+            }
+        ],
+        "R": [
+            {
+                "id": 230,
+                "name": "Radioastronomo",
+                "detalles": "Científico que estudia el universo a través de ondas de radio."
+            },
+            {
+                "id": 231,
+                "name": "Radiofonista",
+                "detalles": "Persona que trabaja en la radio, como presentador o técnico."
+            },
+            {
+                "id": 232,
+                "name": "Radiologo",
+                "detalles": "Médico especializado en diagnóstico por imagen."
+            },
+            {
+                "id": 233,
+                "name": "Radiotecnico",
+                "detalles": "Técnico que opera equipos de radiología."
+            },
+            {
+                "id": 234,
+                "name": "Radiotelefonista",
+                "detalles": "Operador que se encarga de las comunicaciones por radio."
+            },
+            {
+                "id": 235,
+                "name": "Radiotelegrafista",
+                "detalles": "Operador encargado de enviar y recibir mensajes telegráficos a través de ondas de radio."
+            },
+            {
+                "id": 236,
+                "name": "Radioterapeuta",
+                "detalles": "Especialista que utiliza radiación para tratar enfermedades."
+            },
+            {
+                "id": 237,
+                "name": "Rector",
+                "detalles": "Director de una institución educativa superior."
+            }
+        ],
+        "S": [
+            {
+                "id": 238,
+                "name": "Sanitario",
+                "detalles": "Persona que trabaja en el sector salud, proporcionando atención a pacientes."
+            },
+            {
+                "id": 239,
+                "name": "Secretario",
+                "detalles": "Persona que gestiona y organiza el trabajo administrativo de una oficina."
+            },
+            {
+                "id": 240,
+                "name": "Sexologo",
+                "detalles": "Experto en sexualidad humana."
+            },
+            {
+                "id": 241,
+                "name": "Sismologo",
+                "detalles": "Científico que estudia los terremotos y sus efectos."
+            },
+            {
+                "id": 242,
+                "name": "Sociologo",
+                "detalles": "Estudioso de las sociedades y sus estructuras."
+            },
+            {
+                "id": 243,
+                "name": "Subdelegado",
+                "detalles": "Persona que actúa por delegación en el gobierno."
+            },
+            {
+                "id": 244,
+                "name": "Subdirector",
+                "detalles": "Persona que apoya y colabora con un director en sus funciones."
+            },
+            {
+                "id": 245,
+                "name": "Subsecretario",
+                "detalles": "Persona que se encarga de apoyar a un secretario en sus funciones."
+            },
+            {
+                "id": 246,
+                "name": "Tecnico",
+                "detalles": "Profesional con habilidades y conocimientos específicos en un área técnica."
+            },
+            {
+                "id": 247,
+                "name": "Telefonista",
+                "detalles": "Persona encargada de manejar el sistema telefónico de una oficina."
+            },
+            {
+                "id": 248,
+                "name": "Teologo",
+                "detalles": "Estudioso de la teología y la religión."
+            },
+            {
+                "id": 249,
+                "name": "Terapeuta",
+                "detalles": "Profesional que trata problemas de salud mental o física."
+            },
+            {
+                "id": 250,
+                "name": "Tocoginecologo",
+                "detalles": "Médico especializado en el cuidado de la salud de la mujer durante el embarazo y el parto."
+            },
+            {
+                "id": 251,
+                "name": "Tocologo",
+                "detalles": "Especialista en el tratamiento de enfermedades relacionadas con el embarazo."
+            },
+            {
+                "id": 252,
+                "name": "Toxicologo",
+                "detalles": "Experto en el estudio de los efectos de sustancias tóxicas en el organismo."
+            },
+            {
+                "id": 253,
+                "name": "Traductor",
+                "detalles": "Persona que convierte texto de un idioma a otro."
+            },
+            {
+                "id": 254,
+                "name": "Transcriptor",
+                "detalles": "Persona que convierte audio o texto en un formato escrito."
+            },
+            {
+                "id": 255,
+                "name": "Traumatologo",
+                "detalles": "Médico especializado en el tratamiento de lesiones."
+            },
+            {
+                "id": 256,
+                "name": "Tutor",
+                "detalles": "Persona que proporciona orientación y apoyo académico a un estudiante."
+            }
+        ],
+        "U": [
+            {
+                "id": 257,
+                "name": "Urologo",
+                "detalles": "Médico que se especializa en las vías urinarias y el sistema reproductor masculino."
+            }
+        ],
+        "V": [
+            {
+                "id": 258,
+                "name": "Veterinario",
+                "detalles": "Médico que se especializa en la atención de animales."
+            },
+            {
+                "id": 259,
+                "name": "Vicedecano",
+                "detalles": "Asistente del decano en tareas académicas o administrativas."
+            },
+            {
+                "id": 260,
+                "name": "Vicedirector",
+                "detalles": "Persona que asiste al director en la gestión de una institución."
+            },
+            {
+                "id": 261,
+                "name": "Vicegerente",
+                "detalles": "Persona que asiste al gerente en la administración de una empresa."
+            },
+            {
+                "id": 262,
+                "name": "Vicepresidente",
+                "detalles": "Persona que ocupa el segundo puesto en una organización."
+            },
+            {
+                "id": 263,
+                "name": "Vicerrector",
+                "detalles": "Asistente del rector en la gestión de una universidad."
+            },
+            {
+                "id": 264,
+                "name": "Vicesecretario",
+                "detalles": "Persona que apoya al secretario en sus funciones."
+            },
+            {
+                "id": 265,
+                "name": "Virologo",
+                "detalles": "Científico que estudia los virus y sus efectos."
+            },
+            {
+                "id": 266,
+                "name": "Viticultor",
+                "detalles": "Agricultor que se especializa en la producción de uvas para vino."
+            },
+            {
+                "id": 267,
+                "name": "Vulcanologo",
+                "detalles": "Científico que estudia los volcanes y su actividad."
+            }
+        ],
+        "X": [
+            {
+                "id": 268,
+                "name": "Xilografo",
+                "detalles": "Artista que trabaja con madera, creando grabados o esculturas."
+            }
+        ],
+        "Z": [
+            {
+                "id": 269,
+                "name": "Zoologo",
+                "detalles": "Científico que estudia los animales y su comportamiento."
+            },
+            {
+                "id": 270,
+                "name": "Zootecnico",
+                "detalles": "Especialista en el manejo y producción de animales de granja."
+            }
+        ]
+    }
+}
