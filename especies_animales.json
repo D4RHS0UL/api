@@ -1,7 +1,16 @@
 [
-{"animal":"Perro"},
-{"animal":"Gato"},
-{"animal":"Conejo"},
-{"animal":"Hámster"},
-{"animal":"Pájaro"}
+  {"animal": "Perro"},
+  {"animal": "Gato"},
+  {"animal": "Pájaro"},
+  {"animal": "Conejo"},
+  {"animal": "Hámster"},
+  {"animal": "Vaca"},
+  {"animal": "Cerdo"},
+  {"animal": "Caballo"},
+  {"animal": "Oveja"},
+  {"animal": "Gallina"},
+  {"animal": "Pato"},
+  {"animal": "Ratón"},
+  {"animal": "Mono"},
+  {"animal": "Búho"},
 ]
